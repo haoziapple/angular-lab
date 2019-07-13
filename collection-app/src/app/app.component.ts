@@ -9,6 +9,7 @@ import { Component } from '@angular/core';
         Welcome to {{title}}!
       </h1>
       <app-heros></app-heros>
+      <app-messages></app-messages>
     </div>
     <h2>Here are some links to help you start: </h2>
     <ul>
